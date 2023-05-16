@@ -8,7 +8,7 @@
  */
 export const questions = [
         {
-            question: " Apple was founded before Microsoft.",
+            question: " True or False Apple was founded before Microsoft.",
             answers: [
                 "True",
                 "False"
@@ -36,7 +36,7 @@ export const questions = [
             time: 20
         },
         {
-            question: "CLI stands for Command Line Interface.",
+            question: " True or False CLI stands for Command Line Interface.",
             answers: [
                 "True",
                 "False"
@@ -64,7 +64,7 @@ export const questions = [
             time: 20
         },
         {
-            question: "Steve Wozniak is the co-founder of Apple Computers alongside Steve Jobs.",
+            question: " True or False Steve Wozniak is the co-founder of Apple Computers alongside Steve Jobs.",
             answers: [
                 "True",
                 "False"
@@ -82,7 +82,7 @@ export const questions = [
             time: 20
         },
         {
-            question: "the color red makes people think of danger or it grabs their attention.",
+            question: " True or False the color red makes people think of danger and it grabs their attention.",
             answers: [
                 "True",
                 "False"
@@ -91,7 +91,7 @@ export const questions = [
             time: 20
         },
         {
-            question: "The tech ladder is a scale of products that change price very little and makes you want to buy the next one up.",
+            question: " True or False The tech ladder is a scale of products that change price very little and makes you want to buy the next one up.",
             answers: [
                 "True",
                 "False"
