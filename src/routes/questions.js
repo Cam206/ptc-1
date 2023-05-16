@@ -48,7 +48,7 @@ export const questions = [
             question: " who is responsible for creating the original version of MacOS",
             answers: [
                 "Steve Jobs",
-                "President Joe Biden",
+                "Steve Wozniak",
                 "Bill Gates"
             ],
             correct: 2,
@@ -64,7 +64,7 @@ export const questions = [
             time: 20
         },
         {
-            question: "Seve Wozniak is the co-founder of Apple Computers alongside Steve Jobs.",
+            question: "Steve Wozniak is the co-founder of Apple Computers alongside Steve Jobs.",
             answers: [
                 "True",
                 "False"
